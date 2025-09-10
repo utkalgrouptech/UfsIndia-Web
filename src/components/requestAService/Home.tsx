@@ -69,7 +69,7 @@ export default function Home() {
 
           <div className="text-md">
             <p className="font-bold text-md text-gray-600">Contact Number</p>
-            <Link href={'tel:+919776666555'} className='text-black'>9776666555</Link>
+            <Link href={'tel:+919776666555'} className='text-black'>+91 8260500785</Link>
   
           </div>
 

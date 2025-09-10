@@ -9,7 +9,7 @@ const Aboutus = () => {
         <span className="text-bold text-md text-gray-700">
           Utkal Facilities Services Private Limited
         </span>{" "}
-        , part of the AP Group of Companies offers Integrated Facility &
+        , part of the Utkal Group of Companies offers Integrated Facility &
         Maintenance Services to various Industries like, Railways,
         Airports, Logistic, Commercials, Residential Installations etc.{" "}
         <br /> <br />

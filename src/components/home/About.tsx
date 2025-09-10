@@ -40,7 +40,7 @@ const About = () => {
           About Utkal Facility Services Pvt. Ltd.
         </h1>
         <h3 className="text-gray-500">
-          Utkal Facilities Services Private Limited, part of the AP Group of
+          Utkal Facilities Services Private Limited, part of the Utkal Group of
           Companies offers Integrated Facility & Maintenance Services to various
           Industries like, Railways, Airports, Logistic, Commercials,
           Residential Installations etc.

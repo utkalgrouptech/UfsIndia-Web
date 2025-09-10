@@ -30,7 +30,7 @@ const Header = () => {
         <div className="flex items-center gap-10 justify-end w-full font-medium text-lg">
           <span className="flex gap-2">
             <CallIcon className="!text-green-500" />
-            <Link href={'tel:+919776666555'} className='text-black'>9776666555</Link>
+            <Link href={'tel:+919776666555'} className='text-black'>8260500785</Link>
           </span>
           <span className=" gap-2 hidden md:flex">
             <DraftsIcon className="!text-green-500" />

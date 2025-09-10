@@ -34,7 +34,13 @@ export default function ContactInformation() {
           <div>
             <h2 className="text-gray-600 font-bold ">Head Office :</h2>
             <p className="py-2 text-gray-500">
-            Jaydev Vihar Near Pal HeightsHead Office: HIG-42, Jayadev Vihar, Bhubaneswar, Odisha.
+            Arya Surya Enclave, Plot No- K5/475,
+
+Fourth Floor,Kalinga Vihar,
+
+Bhubaneswar,Dist- Khurda,
+
+Odisha, India-751019.
             
             </p>
           </div>
@@ -92,7 +98,7 @@ export default function ContactInformation() {
 
       <div className="lg:w-3/4 w-full !h-[80vh] ">
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3742.0330690686887!2d85.8212497!3d20.298898299999998!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a1909c2e0a39ec9%3A0xe46791b69959a045!2sGIET%20Bhubaneswar%20Ghangapatana%20City%20Office!5e0!3m2!1sen!2sin!4v1736576196805!5m2!1sen!2sin"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d412.66028536560367!2d85.75513660966763!3d20.244715835556402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19a9f84571a633%3A0x600f47c59a3bcf8!2sUtkal%20Group%20of%20Companies!5e1!3m2!1sen!2sin!4v1743144349889!5m2!1sen!2sin"
           width="100%"
           height="100%"
           allowFullScreen={true}

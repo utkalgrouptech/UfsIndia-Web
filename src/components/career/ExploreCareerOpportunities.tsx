@@ -29,12 +29,20 @@ export default function  ExploreCareerOpportunities() {
             Utkal Facility Services Pvt. Ltd
           </p>
           <p className=" text-md text-gray-600">
-          Jaydev Vihar Near Pal HeightsHead Office: HIG-42, Jayadev Vihar, Bhubaneswar, Odisha.
+          Arya Surya Enclave, Plot No- K5/475,
+
+Khata No 95/937, Fourth Floor, Mouza-
+
+Subudhi Pur, Kalinga Vihar, Patrapada,
+
+Bhubaneswar, Dist- Khurda,
+
+Odisha, India-751019.
           </p>
 
           <div className="text-md">
             <p className="font-bold text-md text-gray-600">Contact Number</p>
-            <p> <Link href={'tel:+919776666555'}>Phone: 9776666555</Link></p>
+            <p> <Link href={'tel:+919776666555'}>Phone: 8260500785</Link></p>
           </div>
 
           <div className="text-md">
@@ -50,7 +58,7 @@ export default function  ExploreCareerOpportunities() {
             </p>
             
             <p className=" text-white  text-md ">
-            You can send your updated CV to <br /> <span className="text-yellow-500"><Link href={'mailto:+talent@ufsindia.in'}>talent@ufsindia.in</Link>  </span>and our recruitment  <br />team will get back to you as per your <br /> corresponding job opening.
+            You can send your updated CV to <br /> <span className="text-yellow-500"><Link href={'mailto:+talent@ufsindia.in'}>hrmanager@utkalfacility.com</Link>  </span>and our recruitment  <br />team will get back to you as per your <br /> corresponding job opening.
              
             </p>
           </div>
