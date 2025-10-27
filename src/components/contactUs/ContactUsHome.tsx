@@ -26,7 +26,7 @@ Odisha, India-751019.
         <div>
           <h2 className="text-gray-600 font-bold">Contact Number</h2>
           <p className="py-2 text-gray-500">
-           <Link href={'tel:++91-9776666555'}>Mobile: +91 8260500785 </Link>
+           <Link href={'tel:18008900129'}>Mobile: +91 8260500785 / 18008900129 </Link>
           </p>
         </div>
 
